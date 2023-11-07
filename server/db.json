@@ -1,0 +1,88 @@
+{
+    "contacts":[
+        {
+            "id" : "H0013",
+            "name" : "Hitesh",
+            "photo":"",
+            "company" : "Space X",
+            "mobile" : "9284095104",
+            "email" : "hitesh2001@gmail.com",
+            "title" : "SDE-3",
+            "group" : "1"
+        },
+        {
+            "id" : "H0014",
+            "name" : "Omraj",
+            "photo":"",
+            "company" : "Space X",
+            "mobile" : "9284095104",
+            "email" : "Omraj2001@gmail.com",
+            "title" : "SDE-1",
+            "group" : "2"
+        },
+        {
+            "id" : "H0015",
+            "name" : "Aryan",
+            "photo":"",
+            "company" : "Amazon",
+            "mobile" : "9284095104",
+            "email" : "Aryan2001@gmail.com",
+            "title" : "ASE-3",
+            "group" : "3"
+        },
+        {
+            "id" : "H0016",
+            "name" : "Mohit",
+            "photo":"",
+            "company" : "Adobe",
+            "mobile" : "9284095104",
+            "email" : "mohit2001@gmail.com",
+            "title" : "ASE",
+            "group" : "2"
+        },
+        {
+            "id" : "H0017",
+            "name" : "Deepti",
+            "photo":"",
+            "company" : "Space X",
+            "mobile" : "9284095104",
+            "email" : "deepti2001@gmail.com",
+            "title" : "SDE-2",
+            "group" : "1"
+        },
+        {
+            "id" : "H0018",
+            "name" : "Ashutosh",
+            "photo":"",
+            "company" : "MicroSoft",
+            "mobile" : "9284095104",
+            "email" : "Ashutosh2001@gmail.com",
+            "title" : "ASE",
+            "group" : "2"
+        },
+        {
+            "id" : "H0019",
+            "name" : "Shubham",
+            "photo":"",
+            "company" : "nVidia",
+            "mobile" : "9284095104",
+            "email" : "hitesh2001@gmail.com",
+            "title" : "SDE-3",
+            "group" : "3"
+        }
+    ],
+    "groups" :[
+        {
+          "id" : "1",
+          "group" : "Family"  
+        },
+        {
+            "id" : "2",
+            "group" : "Friends"  
+        },
+        {
+            "id" : "3",
+            "group" : "colleague"  
+          }
+    ]
+}

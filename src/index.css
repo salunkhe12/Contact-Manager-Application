@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&family=Ubuntu:wght@300&display=swap');
+
+body{
+    background-color: #eee8e4 !important;
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.profile-img{
+        height: 150px;
+        width: 150px;
+        border-radius: 50%;
+}
